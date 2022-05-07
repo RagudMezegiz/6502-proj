@@ -1,0 +1,7 @@
+# Gitignore file for the 6502 projects
+
+# vscode folder
+.vscode/*
+
+# Object code files
+*.o
